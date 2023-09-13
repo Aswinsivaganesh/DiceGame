@@ -31,7 +31,16 @@ p {
 img {
   width: 80%;
 }
+#butt{
+  display: flex;
+  justify-content: center;
+}
+#btn{
+height: 1cm;
+  width:2cm;
+  font-size: larger;
 
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;
